@@ -1,0 +1,5 @@
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\Homework Lecture 3\MoonGravitation\bin\Debug\MoonGravitation.exe
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\Homework Lecture 3\MoonGravitation\bin\Debug\MoonGravitation.pdb
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\Homework Lecture 3\MoonGravitation\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\Homework Lecture 3\MoonGravitation\obj\x86\Debug\MoonGravitation.exe
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\Homework Lecture 3\MoonGravitation\obj\x86\Debug\MoonGravitation.pdb

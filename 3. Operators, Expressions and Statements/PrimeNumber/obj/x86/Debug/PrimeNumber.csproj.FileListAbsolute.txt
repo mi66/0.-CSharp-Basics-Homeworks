@@ -1,0 +1,5 @@
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\Homework Lecture 3\PrimeNumber\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\Homework Lecture 3\PrimeNumber\bin\Debug\PrimeNumber.exe
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\Homework Lecture 3\PrimeNumber\bin\Debug\PrimeNumber.pdb
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\Homework Lecture 3\PrimeNumber\obj\x86\Debug\PrimeNumber.exe
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\Homework Lecture 3\PrimeNumber\obj\x86\Debug\PrimeNumber.pdb

@@ -1,0 +1,5 @@
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\Homework Lecture 3\CheckBitPosition\bin\Debug\CheckBitPosition.exe
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\Homework Lecture 3\CheckBitPosition\bin\Debug\CheckBitPosition.pdb
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\Homework Lecture 3\CheckBitPosition\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\Homework Lecture 3\CheckBitPosition\obj\x86\Debug\CheckBitPosition.exe
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\Homework Lecture 3\CheckBitPosition\obj\x86\Debug\CheckBitPosition.pdb

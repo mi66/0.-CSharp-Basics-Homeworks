@@ -1,0 +1,5 @@
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\Intro-Programming-Homework-A_Docheva\SequenceLong\bin\Debug\SequenceLong.exe
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\Intro-Programming-Homework-A_Docheva\SequenceLong\bin\Debug\SequenceLong.pdb
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\Intro-Programming-Homework-A_Docheva\SequenceLong\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\Intro-Programming-Homework-A_Docheva\SequenceLong\obj\x86\Debug\SequenceLong.exe
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\Intro-Programming-Homework-A_Docheva\SequenceLong\obj\x86\Debug\SequenceLong.pdb

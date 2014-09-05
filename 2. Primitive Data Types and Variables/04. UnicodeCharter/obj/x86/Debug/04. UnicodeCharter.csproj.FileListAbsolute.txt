@@ -1,0 +1,5 @@
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\2. PrimitiveDataTypesandVariables\04. UnicodeCharter\bin\Debug\_04.UnicodeCharter.exe
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\2. PrimitiveDataTypesandVariables\04. UnicodeCharter\bin\Debug\_04.UnicodeCharter.pdb
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\2. PrimitiveDataTypesandVariables\04. UnicodeCharter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\2. PrimitiveDataTypesandVariables\04. UnicodeCharter\obj\x86\Debug\_04.UnicodeCharter.exe
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\2. PrimitiveDataTypesandVariables\04. UnicodeCharter\obj\x86\Debug\_04.UnicodeCharter.pdb

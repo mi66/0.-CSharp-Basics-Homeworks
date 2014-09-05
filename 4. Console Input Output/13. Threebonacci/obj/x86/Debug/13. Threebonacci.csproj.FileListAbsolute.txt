@@ -1,0 +1,5 @@
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\042. Console Input Output\13. Threebonacci\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\042. Console Input Output\13. Threebonacci\bin\Debug\_13.Threebonacci.exe
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\042. Console Input Output\13. Threebonacci\bin\Debug\_13.Threebonacci.pdb
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\042. Console Input Output\13. Threebonacci\obj\x86\Debug\_13.Threebonacci.exe
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\042. Console Input Output\13. Threebonacci\obj\x86\Debug\_13.Threebonacci.pdb

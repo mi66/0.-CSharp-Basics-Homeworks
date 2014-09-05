@@ -1,0 +1,5 @@
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\Homework Lecture 3\Trapezoid\bin\Debug\Trapezoid.exe
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\Homework Lecture 3\Trapezoid\bin\Debug\Trapezoid.pdb
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\Homework Lecture 3\Trapezoid\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\Homework Lecture 3\Trapezoid\obj\x86\Debug\Trapezoid.exe
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\Homework Lecture 3\Trapezoid\obj\x86\Debug\Trapezoid.pdb

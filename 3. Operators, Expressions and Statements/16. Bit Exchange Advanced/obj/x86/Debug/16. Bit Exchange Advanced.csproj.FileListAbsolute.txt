@@ -1,0 +1,7 @@
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\3. Operators, Expressions and Statements\16. Bit Exchange Advanced\bin\Debug\_16.Bit_Exchange_Advanced.exe
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\3. Operators, Expressions and Statements\16. Bit Exchange Advanced\bin\Debug\_16.Bit_Exchange_Advanced.pdb
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\3. Operators, Expressions and Statements\16. Bit Exchange Advanced\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\3. Operators, Expressions and Statements\16. Bit Exchange Advanced\obj\x86\Debug\_16.Bit_Exchange_Advanced.exe
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\3. Operators, Expressions and Statements\16. Bit Exchange Advanced\obj\x86\Debug\_16.Bit_Exchange_Advanced.pdb
+C:\Documents and Settings\Mihail\Desktop\SoftUni\00. C# Basics\C# Basics Homeworks\3. Operators, Expressions and Statements\16. Bit Exchange Advanced\obj\x86\Debug\_16.Bit_Exchange_Advanced.exe
+C:\Documents and Settings\Mihail\Desktop\SoftUni\00. C# Basics\C# Basics Homeworks\3. Operators, Expressions and Statements\16. Bit Exchange Advanced\obj\x86\Debug\_16.Bit_Exchange_Advanced.pdb

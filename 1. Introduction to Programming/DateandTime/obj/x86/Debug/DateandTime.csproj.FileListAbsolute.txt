@@ -1,0 +1,5 @@
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\Intro-Programming-Homework-A_Docheva\DateandTime\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\Intro-Programming-Homework-A_Docheva\DateandTime\bin\Debug\DateandTime.exe
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\Intro-Programming-Homework-A_Docheva\DateandTime\bin\Debug\DateandTime.pdb
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\Intro-Programming-Homework-A_Docheva\DateandTime\obj\x86\Debug\DateandTime.exe
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\Intro-Programming-Homework-A_Docheva\DateandTime\obj\x86\Debug\DateandTime.pdb

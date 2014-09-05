@@ -1,0 +1,7 @@
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\6. Loops\ConsoleApplication17\bin\Debug\ConsoleApplication17.exe
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\6. Loops\ConsoleApplication17\bin\Debug\ConsoleApplication17.pdb
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\6. Loops\ConsoleApplication17\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\6. Loops\ConsoleApplication17\obj\x86\Debug\ConsoleApplication17.exe
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\6. Loops\ConsoleApplication17\obj\x86\Debug\ConsoleApplication17.pdb
+C:\Documents and Settings\Mihail\Desktop\SoftUni\00. C# Basics\C# Basics Homeworks\6. Loops\ConsoleApplication17\obj\x86\Debug\ConsoleApplication17.exe
+C:\Documents and Settings\Mihail\Desktop\SoftUni\00. C# Basics\C# Basics Homeworks\6. Loops\ConsoleApplication17\obj\x86\Debug\ConsoleApplication17.pdb

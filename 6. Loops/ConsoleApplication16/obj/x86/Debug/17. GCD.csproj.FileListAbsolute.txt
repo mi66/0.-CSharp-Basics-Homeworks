@@ -1,0 +1,5 @@
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\6. Loops\ConsoleApplication16\bin\Debug\ConsoleApplication16.exe
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\6. Loops\ConsoleApplication16\bin\Debug\ConsoleApplication16.pdb
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\6. Loops\ConsoleApplication16\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\6. Loops\ConsoleApplication16\obj\x86\Debug\ConsoleApplication16.exe
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\6. Loops\ConsoleApplication16\obj\x86\Debug\ConsoleApplication16.pdb

@@ -1,0 +1,5 @@
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\Intro-Programming-Homework-A_Docheva\Ageafter10Years\bin\Debug\Ageafter10Years.exe
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\Intro-Programming-Homework-A_Docheva\Ageafter10Years\bin\Debug\Ageafter10Years.pdb
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\Intro-Programming-Homework-A_Docheva\Ageafter10Years\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\Intro-Programming-Homework-A_Docheva\Ageafter10Years\obj\x86\Debug\Ageafter10Years.exe
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\Intro-Programming-Homework-A_Docheva\Ageafter10Years\obj\x86\Debug\Ageafter10Years.pdb

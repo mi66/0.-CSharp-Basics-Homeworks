@@ -1,0 +1,15 @@
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\Homework 4\ConsoleApplication8\bin\Debug\ConsoleApplication8.exe
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\Homework 4\ConsoleApplication8\bin\Debug\ConsoleApplication8.pdb
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\Homework 4\ConsoleApplication8\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\Homework 4\ConsoleApplication8\obj\x86\Debug\ConsoleApplication8.exe
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\Homework 4\ConsoleApplication8\obj\x86\Debug\ConsoleApplication8.pdb
+C:\Documents and Settings\Mihail\My Documents\Visual Studio 2010\Projects\Homework 4\ConsoleApplication8\obj\x86\Debug\ConsoleApplication8.exe
+C:\Documents and Settings\Mihail\My Documents\Visual Studio 2010\Projects\Homework 4\ConsoleApplication8\obj\x86\Debug\ConsoleApplication8.pdb
+C:\Documents and Settings\Mihail\My Documents\Visual Studio 2010\Projects\Homework 4\ConsoleApplication8\bin\Debug\ConsoleApplication8.exe
+C:\Documents and Settings\Mihail\My Documents\Visual Studio 2010\Projects\Homework 4\ConsoleApplication8\bin\Debug\ConsoleApplication8.pdb
+C:\Documents and Settings\Mihail\My Documents\Visual Studio 2010\Projects\Homework 4\ConsoleApplication8\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\042. Console Input Output\ConsoleApplication8\obj\x86\Debug\ConsoleApplication8.exe
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\042. Console Input Output\ConsoleApplication8\obj\x86\Debug\ConsoleApplication8.pdb
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\042. Console Input Output\ConsoleApplication8\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\042. Console Input Output\ConsoleApplication8\bin\Debug\ConsoleApplication8.exe
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\042. Console Input Output\ConsoleApplication8\bin\Debug\ConsoleApplication8.pdb

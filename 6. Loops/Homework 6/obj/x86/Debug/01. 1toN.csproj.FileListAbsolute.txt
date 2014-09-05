@@ -1,0 +1,5 @@
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\Homework 6\Homework 6\bin\Debug\Homework 6.exe
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\Homework 6\Homework 6\bin\Debug\Homework 6.pdb
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\Homework 6\Homework 6\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\Homework 6\Homework 6\obj\x86\Debug\Homework 6.exe
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\Homework 6\Homework 6\obj\x86\Debug\Homework 6.pdb

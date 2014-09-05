@@ -1,0 +1,7 @@
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\Homework Lecture 3\OddorEven\bin\Debug\OddorEven.exe
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\Homework Lecture 3\OddorEven\bin\Debug\OddorEven.pdb
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\Homework Lecture 3\OddorEven\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\Homework Lecture 3\OddorEven\obj\x86\Debug\OddorEven.exe
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\Homework Lecture 3\OddorEven\obj\x86\Debug\OddorEven.pdb
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\3. Operators, Expressions and Statements\OddorEven\obj\x86\Debug\OddorEven.exe
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\3. Operators, Expressions and Statements\OddorEven\obj\x86\Debug\OddorEven.pdb

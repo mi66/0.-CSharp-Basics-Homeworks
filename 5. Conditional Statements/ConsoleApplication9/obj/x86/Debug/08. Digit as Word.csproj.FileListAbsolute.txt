@@ -1,0 +1,15 @@
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\Homework 5\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\Homework 5\ConsoleApplication9\bin\Debug\ConsoleApplication9.pdb
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\Homework 5\ConsoleApplication9\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\Homework 5\ConsoleApplication9\obj\x86\Debug\ConsoleApplication9.exe
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\Homework 5\ConsoleApplication9\obj\x86\Debug\ConsoleApplication9.pdb
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\05. Conditional Statements\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\05. Conditional Statements\ConsoleApplication9\bin\Debug\ConsoleApplication9.pdb
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\05. Conditional Statements\ConsoleApplication9\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\05. Conditional Statements\ConsoleApplication9\obj\x86\Debug\ConsoleApplication9.exe
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\05. Conditional Statements\ConsoleApplication9\obj\x86\Debug\ConsoleApplication9.pdb
+C:\Documents and Settings\Mihail\Desktop\SoftUni\00. C# Basics\C# Basics Homeworks\5. Conditional Statements\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe
+C:\Documents and Settings\Mihail\Desktop\SoftUni\00. C# Basics\C# Basics Homeworks\5. Conditional Statements\ConsoleApplication9\bin\Debug\ConsoleApplication9.pdb
+C:\Documents and Settings\Mihail\Desktop\SoftUni\00. C# Basics\C# Basics Homeworks\5. Conditional Statements\ConsoleApplication9\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mihail\Desktop\SoftUni\00. C# Basics\C# Basics Homeworks\5. Conditional Statements\ConsoleApplication9\obj\x86\Debug\ConsoleApplication9.exe
+C:\Documents and Settings\Mihail\Desktop\SoftUni\00. C# Basics\C# Basics Homeworks\5. Conditional Statements\ConsoleApplication9\obj\x86\Debug\ConsoleApplication9.pdb

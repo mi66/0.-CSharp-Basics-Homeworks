@@ -1,0 +1,7 @@
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\Intro-Programming-Homework-A_Docheva\Debugger\bin\Debug\Debugger.exe
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\Intro-Programming-Homework-A_Docheva\Debugger\bin\Debug\Debugger.pdb
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\Intro-Programming-Homework-A_Docheva\Debugger\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\Intro-Programming-Homework-A_Docheva\Debugger\obj\x86\Debug\Debugger.exe
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\Intro-Programming-Homework-A_Docheva\Debugger\obj\x86\Debug\Debugger.pdb
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\1. Introduction to Programming\Debugger\obj\x86\Debug\Debugger.exe
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\1. Introduction to Programming\Debugger\obj\x86\Debug\Debugger.pdb

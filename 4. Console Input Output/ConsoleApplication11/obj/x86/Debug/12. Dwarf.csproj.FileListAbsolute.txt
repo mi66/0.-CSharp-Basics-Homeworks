@@ -1,0 +1,11 @@
+C:\Documents and Settings\Mihail\My Documents\Visual Studio 2010\Projects\Homework 4\ConsoleApplication11\obj\x86\Debug\ConsoleApplication11.exe
+C:\Documents and Settings\Mihail\My Documents\Visual Studio 2010\Projects\Homework 4\ConsoleApplication11\obj\x86\Debug\ConsoleApplication11.pdb
+C:\Documents and Settings\Mihail\My Documents\Visual Studio 2010\Projects\Homework 4\ConsoleApplication11\bin\Debug\ConsoleApplication11.exe
+C:\Documents and Settings\Mihail\My Documents\Visual Studio 2010\Projects\Homework 4\ConsoleApplication11\bin\Debug\ConsoleApplication11.pdb
+C:\Documents and Settings\Mihail\My Documents\Visual Studio 2010\Projects\Homework 4\ConsoleApplication11\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\042. Console Input Output\ConsoleApplication11\obj\x86\Debug\ConsoleApplication11.exe
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\042. Console Input Output\ConsoleApplication11\obj\x86\Debug\ConsoleApplication11.pdb
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\4. Console Input Output\ConsoleApplication11\obj\x86\Debug\ConsoleApplication11.exe
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\4. Console Input Output\ConsoleApplication11\obj\x86\Debug\ConsoleApplication11.pdb
+C:\Documents and Settings\Mihail\Desktop\SoftUni\00. C# Basics\C# Basics Homeworks\4. Console Input Output\ConsoleApplication11\obj\x86\Debug\ConsoleApplication11.exe
+C:\Documents and Settings\Mihail\Desktop\SoftUni\00. C# Basics\C# Basics Homeworks\4. Console Input Output\ConsoleApplication11\obj\x86\Debug\ConsoleApplication11.pdb

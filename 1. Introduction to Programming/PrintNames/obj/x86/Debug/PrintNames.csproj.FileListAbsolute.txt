@@ -1,0 +1,5 @@
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\Intro-Programming-Homework-A_Docheva\PrintNames\bin\Debug\PrintNames.exe
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\Intro-Programming-Homework-A_Docheva\PrintNames\bin\Debug\PrintNames.pdb
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\Intro-Programming-Homework-A_Docheva\PrintNames\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\Intro-Programming-Homework-A_Docheva\PrintNames\obj\x86\Debug\PrintNames.exe
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\Intro-Programming-Homework-A_Docheva\PrintNames\obj\x86\Debug\PrintNames.pdb

@@ -1,0 +1,5 @@
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\3. Operators, Expressions and Statements\ModifyaBit\bin\Debug\ModifyaBit.exe
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\3. Operators, Expressions and Statements\ModifyaBit\bin\Debug\ModifyaBit.pdb
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\3. Operators, Expressions and Statements\ModifyaBit\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\3. Operators, Expressions and Statements\ModifyaBit\obj\x86\Debug\ModifyaBit.exe
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\3. Operators, Expressions and Statements\ModifyaBit\obj\x86\Debug\ModifyaBit.pdb

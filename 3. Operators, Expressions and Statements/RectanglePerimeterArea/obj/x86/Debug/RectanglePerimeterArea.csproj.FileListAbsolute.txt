@@ -1,0 +1,5 @@
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\Homework Lecture 3\RectanglePerimeterArea\bin\Debug\RectanglePerimeterArea.exe
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\Homework Lecture 3\RectanglePerimeterArea\bin\Debug\RectanglePerimeterArea.pdb
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\Homework Lecture 3\RectanglePerimeterArea\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\Homework Lecture 3\RectanglePerimeterArea\obj\x86\Debug\RectanglePerimeterArea.exe
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\Homework Lecture 3\RectanglePerimeterArea\obj\x86\Debug\RectanglePerimeterArea.pdb

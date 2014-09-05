@@ -1,0 +1,9 @@
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\2. PrimitiveDataTypesandVariables\14. ASCII Table\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\2. PrimitiveDataTypesandVariables\14. ASCII Table\bin\Debug\_14.ASCII_Table.exe
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\2. PrimitiveDataTypesandVariables\14. ASCII Table\bin\Debug\_14.ASCII_Table.pdb
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\2. PrimitiveDataTypesandVariables\14. ASCII Table\obj\x86\Debug\_14.ASCII_Table.exe
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\2. PrimitiveDataTypesandVariables\14. ASCII Table\obj\x86\Debug\_14.ASCII_Table.pdb
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\2. Primitive Data Types and Variables\14. ASCII Table\obj\x86\Debug\_14.ASCII_Table.exe
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\2. Primitive Data Types and Variables\14. ASCII Table\obj\x86\Debug\_14.ASCII_Table.pdb
+C:\Documents and Settings\Mihail\Desktop\SoftUni\00. C# Basics\C# Basics Homeworks\2. Primitive Data Types and Variables\14. ASCII Table\obj\x86\Debug\_14.ASCII_Table.exe
+C:\Documents and Settings\Mihail\Desktop\SoftUni\00. C# Basics\C# Basics Homeworks\2. Primitive Data Types and Variables\14. ASCII Table\obj\x86\Debug\_14.ASCII_Table.pdb

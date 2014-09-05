@@ -1,0 +1,5 @@
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\2. PrimitiveDataTypesandVariables\11. Bank Account\bin\Debug\_11.Bank_Account.exe
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\2. PrimitiveDataTypesandVariables\11. Bank Account\bin\Debug\_11.Bank_Account.pdb
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\2. PrimitiveDataTypesandVariables\11. Bank Account\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\2. PrimitiveDataTypesandVariables\11. Bank Account\obj\x86\Debug\_11.Bank_Account.exe
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\2. PrimitiveDataTypesandVariables\11. Bank Account\obj\x86\Debug\_11.Bank_Account.pdb

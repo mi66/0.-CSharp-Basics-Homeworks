@@ -1,0 +1,5 @@
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\2. PrimitiveDataTypesandVariables\07. QuotesinString\bin\Debug\_07.QuotesinString.exe
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\2. PrimitiveDataTypesandVariables\07. QuotesinString\bin\Debug\_07.QuotesinString.pdb
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\2. PrimitiveDataTypesandVariables\07. QuotesinString\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\2. PrimitiveDataTypesandVariables\07. QuotesinString\obj\x86\Debug\_07.QuotesinString.exe
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\2. PrimitiveDataTypesandVariables\07. QuotesinString\obj\x86\Debug\_07.QuotesinString.pdb

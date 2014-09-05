@@ -1,0 +1,10 @@
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\Homework 4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\Homework 4\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\Homework 4\ConsoleApplication4\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\Homework 4\ConsoleApplication4\obj\x86\Debug\ConsoleApplication4.exe
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\Homework 4\ConsoleApplication4\obj\x86\Debug\ConsoleApplication4.pdb
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\042. Console Input Output\ConsoleApplication4\obj\x86\Debug\ConsoleApplication4.exe
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\042. Console Input Output\ConsoleApplication4\obj\x86\Debug\ConsoleApplication4.pdb
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\042. Console Input Output\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\042. Console Input Output\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\042. Console Input Output\ConsoleApplication4\obj\x86\Debug\ResolveAssemblyReference.cache

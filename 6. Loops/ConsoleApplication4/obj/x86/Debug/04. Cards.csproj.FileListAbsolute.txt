@@ -1,0 +1,14 @@
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\Homework 6\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\Homework 6\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\Homework 6\ConsoleApplication4\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\Homework 6\ConsoleApplication4\obj\x86\Debug\ConsoleApplication4.exe
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\Homework 6\ConsoleApplication4\obj\x86\Debug\ConsoleApplication4.pdb
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\6. Loops\ConsoleApplication4\obj\x86\Debug\ConsoleApplication4.exe
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\6. Loops\ConsoleApplication4\obj\x86\Debug\ConsoleApplication4.pdb
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\6. Loops\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\6. Loops\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\6. Loops\ConsoleApplication4\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mihail\Desktop\SoftUni\00. C# Basics\C# Basics Homeworks\6. Loops\ConsoleApplication4\obj\x86\Debug\ConsoleApplication4.exe
+C:\Documents and Settings\Mihail\Desktop\SoftUni\00. C# Basics\C# Basics Homeworks\6. Loops\ConsoleApplication4\obj\x86\Debug\ConsoleApplication4.pdb
+D:\SoftUni\00. C# Basics\C# Basics Homeworks\6. Loops\ConsoleApplication4\obj\x86\Debug\ConsoleApplication4.exe
+D:\SoftUni\00. C# Basics\C# Basics Homeworks\6. Loops\ConsoleApplication4\obj\x86\Debug\ConsoleApplication4.pdb

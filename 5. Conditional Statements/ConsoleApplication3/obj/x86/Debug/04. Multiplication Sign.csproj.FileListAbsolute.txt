@@ -1,0 +1,5 @@
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\Homework 5\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\Homework 5\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\Homework 5\ConsoleApplication3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\Homework 5\ConsoleApplication3\obj\x86\Debug\ConsoleApplication3.exe
+C:\Documents and Settings\Mihail\Desktop\SoftUni\Homeworks\Homework 5\ConsoleApplication3\obj\x86\Debug\ConsoleApplication3.pdb
